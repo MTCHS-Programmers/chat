@@ -1,0 +1,45 @@
+#message {
+	width: calc(100% - 7px);
+	padding: 3px;
+}
+
+#messages {
+	max-height: calc(100vh - 350px);
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+#submit {
+	display: none;
+}
+
+.message {
+	background: #7A838D;
+	color: #0E365F;
+	margin: 5px 10px 5px 0px;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+#user {
+	font-weight: bold;
+}
+
+#text {
+	font-weight: normal;
+}
+
+#date {
+	font-weight: normal;
+	font-size: 10px;
+	clear: both;
+}
+
+.true #textContainer, .true #date {
+	text-align: right;
+}
+
+.true #user {
+	visibility: hidden;
+}
+

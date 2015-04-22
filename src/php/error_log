@@ -1,0 +1,5 @@
+[12-Mar-2015 10:21:28 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/rettoph/public_html/projects/chat/src/php/postMessage.php on line 9
+[12-Mar-2015 10:21:57 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/rettoph/public_html/projects/chat/src/php/postMessage.php on line 9
+[12-Mar-2015 10:26:54 America/Denver] PHP Fatal error:  Function name must be a string in /home/rettoph/public_html/projects/chat/src/php/postMessage.php on line 12
+[12-Mar-2015 10:27:13 America/Denver] PHP Fatal error:  Function name must be a string in /home/rettoph/public_html/projects/chat/src/php/postMessage.php on line 12
+[12-Mar-2015 10:27:29 America/Denver] PHP Fatal error:  Function name must be a string in /home/rettoph/public_html/projects/chat/src/php/postMessage.php on line 12
